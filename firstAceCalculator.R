@@ -1,3 +1,4 @@
+# Mosteller, Frederick, Robert Rourke & George Thomas, Jr. 1970. Probability: A First Course, 2nd Edition. Reading: Addison-Wesley.
 
 # # Displays the probability of drawing the first Ace on the ith card, given that no Aces have been drawn for all lower values of i
 # for(i in 0:48){
