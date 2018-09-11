@@ -1,4 +1,4 @@
-# From: 
+# From Mosteller, Frederick, Robert Rourke & George Thomas, Jr. 1970. Probability: A First Course, 2nd Edition. Reading: Addison-Wesley.
 # An ordinary deck of 52 playing cards containing four aces is shuffled thoroughly, 
 # and we count from the top the number of cards down to and including the first ace, and record the count.
 # The process is repeated.
